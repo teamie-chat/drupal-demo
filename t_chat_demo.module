@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Teamie Chat Demo feature.
+ */
+
+include_once 't_chat_demo.features.inc';
