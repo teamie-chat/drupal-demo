@@ -11,7 +11,6 @@ dependencies[] = features
 dependencies[] = jquery_update
 dependencies[] = libraries
 dependencies[] = strongarm
-dependencies[] = t_chat
 features[ctools][] = strongarm:strongarm:1
 features[fe_block_settings][] = devel-switch_user
 features[fe_block_settings][] = system-help
